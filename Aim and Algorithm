@@ -1,0 +1,21 @@
+Aim:
+To write a Python program to perform basic dictionary operations such as accessing, adding, updating, deleting, and using dictionary methods, and to find the frequency of each character in a string.
+
+Algorithm:
+1. Start
+2. Create a dictionary emp containing the employee's name, age, salary, and department.
+3. Display the complete dictionary.
+4. Access and display the values of name, age, salary, and department.
+5. Add a new key ph no with a phone number.
+6. Update the value of sal.
+7. Delete the dept key using del.
+8. Display the keys, values, and items of the dictionary.
+9. Access the name using get().
+10. Use get() to access dept; if it is not available, display "not available".
+11. Update the age and ph no using update().
+12. Take a string as input from the user.
+13. Create an empty dictionary called frequency.
+14. Read each character of the string one by one.
+15. If the character already exists in frequency, increase its count by 1.
+16. Otherwise, add the character to the dictionary with count 1.
+17. Display each character and its frequency.
